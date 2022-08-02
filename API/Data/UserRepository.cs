@@ -7,6 +7,7 @@ using API.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using AutoMapper.QueryableExtensions;
 using AutoMapper;
+using API.DTOs;
 
 namespace API.Data
 {
